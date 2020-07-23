@@ -1,7 +1,7 @@
 name: "My Profile Page"
 output_dir: "."
 navbar:
-  title: "Sylvia Shen"
+  title: "Home"
   right:
     - text: "Resume"
       href: education.html      
