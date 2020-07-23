@@ -1,3 +1,5 @@
-# Welcome to Jiayi's page
+# Welcome to Sylvia's page
 
-You can access my page via https://jiayi-s.github.io/profile.github.io/
+  
+You can access my page via https://jiayi-s.github.io/ 
+
