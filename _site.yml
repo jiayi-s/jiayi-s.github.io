@@ -1,14 +1,21 @@
-name: "Yay internet!"
+name: "My Profile Page"
 output_dir: "."
 navbar:
-  title: "Home"
+  title: "Sylvia Shen"
   right:
-    - text: "About"
-      href: about.html
-    - icon: fa-envelope fa-lg
-      href: mailto:<js5354@cumc.columbia.edu>
-    - icon: fa-github fa-lg
+    - text: "Resume"
+      href: education.html      
+    - icon: fa-github
       href: http://github.com/jiayi-s/
+    - icon: fa-linkedin
+      href: https://www.linkedin.com/in/jiayi-sylvia-shen-482a48124/
+    - icon: fa-envelope
+      href: mailto:<shenjiay@usc.edu>  
 output:
   html_document:
-    theme: flatly
+    theme: cosmo
+    highlight: textmate
+    include:
+      after_body: footer.html
+    css: mystyle.css
+    
