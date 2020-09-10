@@ -11,7 +11,7 @@ library(fontawesome)
 # `r fa("graduation-cap")` Education
 
 * **University of Southern California, Keck School of Medicine, Department of Preventative Medicine**
-  * PhD in Biostatistics, *Los Angeles US, 2020 - Present*
+  * PhD student in Biostatistics, *Los Angeles US, 2020 - Present*
   
 * **Columbia University, Mailman School of Public Health**
   * MS in Biostatistics, *New York US, 2018 - 2020*
