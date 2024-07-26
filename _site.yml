@@ -7,6 +7,8 @@ navbar:
       href: education.html      
     - icon: fa-github
       href: http://github.com/jiayi-s/
+    - icon: fa-google
+      href: https://scholar.google.com/citations?user=m-6wVvIAAAAJ&hl=en
     - icon: fa-linkedin
       href: https://www.linkedin.com/in/jiayi-sylvia-shen-482a48124/
     - icon: fa-envelope
